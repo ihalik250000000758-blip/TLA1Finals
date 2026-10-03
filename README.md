@@ -4,7 +4,7 @@ A small Vite + React app for registering and managing income categories. Built w
 
 ## Live Demo
 
-Deployed on Vercel: **[ADD LINK HERE]**
+Deployed on Vercel: **(https://tla1finals-iqeu93ebk-ihalik-250000000758-5824.vercel.app/)**
 
 ## Features
 
